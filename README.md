@@ -18,7 +18,7 @@ I build AI-powered systems, data pipelines, and machine learning projects that s
 
 ---
 
-## 🔻� Skills & Tools
+## 🔻 Skills & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -153,9 +153,8 @@ I build AI-powered systems, data pipelines, and machine learning projects that s
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalaKhalifa&layout=compact&theme=radical&hide_border=true" height="150"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HalaKhalifa&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalaKhalifa&layout=compact&langs_count=5&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HalaKhalifa&theme=radical" height="180"/>
 
 </div>
 
