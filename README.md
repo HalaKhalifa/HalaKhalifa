@@ -1,4 +1,4 @@
-# Hi 🙋🏻‍♀️ I’m Hala Khalifeh — also known as Yafa 🦉
+# Salam 🙋🏻‍♀️ I’m Hala Khalifeh — also known as Yafa 🦉
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halakhalifeh03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalifehhala28@gmail.com)
