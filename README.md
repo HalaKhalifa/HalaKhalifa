@@ -11,10 +11,7 @@ I build AI-powered systems, data pipelines, and machine learning projects that s
 ## 🔻 About Me
 - 🎓 **Education:** Bachelors in Computer Science - AI track (NNU, 08/2021 – 01/2026)  
 - 📚 **Professional experience:** Former NLP and LLMs Intern @Reconess, Former AI and DL Intern @Aqlama.ai, Former Data Analytics Fellow @Correlation One
-- 💻 **Interests:** Deep Learning, NLP, Data Analytics, Web Applications
-- 📍 **Location:** Palestine  
-- 📫 **Contact:** khalifehhala28@gmail.com
-
+  
 ---
 
 ## 🔻 Skills & Tools
