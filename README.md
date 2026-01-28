@@ -3,15 +3,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halakhalifeh03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalifehhala28@gmail.com)
 
-I’m a Computer Science student and AI enthusiast from **Palestine**.  
+I’m a Computer Science graduate and AI enthusiast from **Palestine**.  
 I build AI-powered systems, data pipelines, and machine learning projects that solve real-world problems.
 
 ---
 
 ## 🔻 About Me
-- 🎓 **Education:** Bachelors in Computer Science - AI track (NNU, 08/2021 – present)  
-- 📚 **Professional Courses:** Machine Learning Professional L1 (IBM & Coursera)  
-- 💻 **Interests:** Deep Learning, NLP, Data Analytics, Web Applications  
+- 🎓 **Education:** Bachelors in Computer Science - AI track (NNU, 08/2021 – 01/2026)  
+- 📚 **Professional experience:** Former NLP and LLMs Intern @Reconess, Former AI and DL Intern @Aqlama.ai, Former Data Analytics Fellow @Correlation One
+- 💻 **Interests:** Deep Learning, NLP, Data Analytics, Web Applications
 - 📍 **Location:** Palestine  
 - 📫 **Contact:** khalifehhala28@gmail.com
 
@@ -27,31 +27,28 @@ I build AI-powered systems, data pipelines, and machine learning projects that s
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 ### Frameworks & Libraries
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6F00?style=flat&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF4136?style=flat&logo=qdrant&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![QGIS](https://img.shields.io/badge/-QGIS-3D9970?style=flat&logo=qgis&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/-Looker_Studio-FF5722?style=flat&logoColor=white)
+![Locust](https://img.shields.io/badge/-Locust-7EB63E?style=flat&logo=locust&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-3D9970?style=flat&logo=qgis&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/-Godot_Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 ### Web Development
@@ -61,7 +58,6 @@ I build AI-powered systems, data pipelines, and machine learning projects that s
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
