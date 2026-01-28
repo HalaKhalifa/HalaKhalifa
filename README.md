@@ -61,17 +61,4 @@ I build AI-powered systems, data pipelines, and machine learning projects that s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HalaKhalifa&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalaKhalifa&layout=compact&langs_count=5&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HalaKhalifa&theme=radical" height="180"/>
-
-</div>
-
-</div>
+**For Gaza And Palestine 🇵🇸💪🏼🌿**
